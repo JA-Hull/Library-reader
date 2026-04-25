@@ -1,6 +1,6 @@
 # barcode_counter
 
-A small reimplementation of the custom Python script described by **Hull
+A  reimplementation of the custom Python script described by **Hull
 et al. (2025, JVI)** for tallying unique sub-sequences flanked by a
 fixed left and right barcode/adapter in FASTA or FASTQ reads.
 
@@ -77,7 +77,7 @@ barcode_counter/
 ## Quick start
 
 ```bash
-git clone <url> && cd Library-reader
+git clone https://github.com/JA-Hull/Library-reader && cd Library-reader
 ./run.sh
 ```
 
