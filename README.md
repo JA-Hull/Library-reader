@@ -20,7 +20,7 @@ earlier proprietary version.
 
 ## Citations
 
-If you use this tool, please cite the original methodological context:
+The original tool was used in the following publications methodological context:
 
 - **Hull, J. A.**, Fusco, R. M., Tan, J., Ochoa, M. A., Hall, A., Wan,
   X., Loeb, E., & Asokan, A. (2025).
