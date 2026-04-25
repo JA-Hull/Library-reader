@@ -4,9 +4,6 @@ A small reimplementation of the custom Python script described by **Hull
 et al. (2025, JVI)** for tallying unique sub-sequences flanked by a
 fixed left and right barcode/adapter in FASTA or FASTQ reads.
 
-> Hull's downstream step of intersecting the recovered inserts with his
-> exact designed library is intentionally **not** reimplemented here.
-
 ## Background
 
 The original script was written by me (**Joshua Alexander Hull**) to
@@ -17,7 +14,7 @@ reads each time.
 
 I no longer hold the rights to that original code. **This repository is
 a clean-room reimplementation written from the ground up, fully
-independent of the original script.** It is provided as-is under the
+independent of the original script** as a test of Claude Opus 4.6's capabilities. It is provided as-is under the
 **MIT License** (see [LICENSE](LICENSE)), with no encumbrance from the
 earlier proprietary version.
 
