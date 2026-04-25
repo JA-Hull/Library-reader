@@ -168,6 +168,16 @@ Golden TSVs from a fresh `./run.sh` (with `--seed 0`) are committed
 under [`examples/expected/`](examples/expected/) so you can diff against
 your own run.
 
+## Built by
+
+This code was written by **Claude** (Anthropic, claude-sonnet-4-20250514)
+via [Cursor](https://cursor.com), prompted and directed by
+[Joshua A. Hull](https://www.linkedin.com/in/ja-hull/), who wrote the orginial. 
+This repository was created as a test of AI-assisted scientific
+software development in a domain the author is familiar with. 
+This software is not guaranteed to work, and is provided as-is, and remains.
+unaffiliated to the original Asokan Lab implimentation.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
