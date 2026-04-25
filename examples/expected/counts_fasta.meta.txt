@@ -1,0 +1,22 @@
+# input        data/reads.fasta
+# left         GGTACCATG
+# right        TAATTAAGC
+# min_mean_q   None
+# min_pos_q    None
+# out          out/counts_fasta.tsv
+# === diagnostics ===
+#   reads_in                 2000
+#   passing_q                2000
+#   dropped_low_q            0
+#   dropped_no_left_bc       123
+#   dropped_no_right_bc      56
+#   dropped_empty_insert     24
+#   reads_out                1797
+#   unique_inserts           221
+#   insert_len min/median/max 3/21/63
+#   insert length histogram (per length):
+#          3 |     36 
+#         21 |   1621 ########################################
+#         35 |     33 
+#         51 |     67 #
+#         63 |     40 
