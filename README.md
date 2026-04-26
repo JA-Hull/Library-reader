@@ -1,7 +1,7 @@
 # Library Reader
 
-A  reimplementation of the custom Python script described by **Hull
-** in various publications for the Asokan Lab for tallying unique sub-sequences flanked by a
+A  reimplementation of the custom Python script described by **Hull**
+in various publications for the Asokan Lab for tallying unique sub-sequences flanked by a
 fixed left and right barcode/adapter in FASTA or FASTQ reads.
 
 ## Background
