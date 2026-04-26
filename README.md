@@ -1,7 +1,7 @@
-# barcode_counter
+# Library Reader
 
 A  reimplementation of the custom Python script described by **Hull
-et al. (2025, JVI)** for tallying unique sub-sequences flanked by a
+** in various publications for the Asokan Lab for tallying unique sub-sequences flanked by a
 fixed left and right barcode/adapter in FASTA or FASTQ reads.
 
 ## Background
@@ -42,10 +42,6 @@ The original tool was used in the following publications methodological context:
   enhancer-AAV vectors that target transgene expression to injured
   mouse myocardium.* **eLife** (reviewed preprint).
   [doi:10.7554/eLife.107148](https://doi.org/10.7554/eLife.107148)
-
-## Maintainer
-
-Joshua Alexander Hull — [LinkedIn](https://www.linkedin.com/in/ja-hull/)
 
 ## Features
 
